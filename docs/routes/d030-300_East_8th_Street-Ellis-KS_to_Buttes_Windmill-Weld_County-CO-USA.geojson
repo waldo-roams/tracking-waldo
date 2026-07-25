@@ -21421,23 +21421,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Last Known Position",
-        "type": "current-position",
-        "sourceFile": "d030-300_East_8th_Street-Ellis-KS_to_Buttes_Windmill-Weld_County-CO-USA.gpx",
-        "updated": "2026-07-24T02:35:25.082Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.989632,
-          40.806446,
-          1622.5
-        ]
-      }
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-24T02:35:25.081Z",
+  "generated": "2026-07-25T03:00:25.046Z",
   "tracks": [
     {
       "sourceFile": "d001-gaithersburg-md-to-harbor-view-shelter-danbury-township-oh-usa.gpx",
@@ -180,6 +180,12 @@
       "geojson": "routes/d030-300_East_8th_Street-Ellis-KS_to_Buttes_Windmill-Weld_County-CO-USA.geojson",
       "pointCount": 4281,
       "distanceKm": 572.219
+    },
+    {
+      "sourceFile": "d031-Buttes_Windmill-Weld_County-CO_to_Fremont_County-WY-USA.gpx",
+      "geojson": "routes/d031-Buttes_Windmill-Weld_County-CO_to_Fremont_County-WY-USA.geojson",
+      "pointCount": 4309,
+      "distanceKm": 654.84
     }
   ]
 }

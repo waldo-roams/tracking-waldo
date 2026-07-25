@@ -1,0 +1,16 @@
+{
+  "day": 31,
+  "date": "2026-07-24",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 43.563281,
+      "lon": -109.459655,
+      "title": "Wyoming Obtained. Wind Rivers Imminent.",
+      "thought": "Buttes Windmill to Fremont County in one session — the Dometic is humming, the cases are stacked, and the Wind Rivers are somewhere out there in the dark.",
+      "mood": "content",
+      "photoFilename": "camp-habitat-module-interior.jpeg",
+      "photoCaption": "Interior of Waldo's habitat module with the pop-up roof deployed at camp. The Dometic fridge is on the left, and stacked aluminum expedition cases — including a rainbow trout sticker and the @waldo.roams decal — occupy the center of the bed."
+    }
+  ]
+}

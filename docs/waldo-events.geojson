@@ -980,7 +980,7 @@
         "day": 30,
         "date": "2026-07-23",
         "type": "camp",
-        "title": "Double rainbow at Buttes Windmill wild camp",
+        "title": "Double rainbow at Pawnee Buttes wild camp",
         "thought": "Dust intrusion addressed, tailwind in service all morning, then a double rainbow over wild camp on the Pawnee — I've had worse days.",
         "mood": "optimistic",
         "status": "",
@@ -989,8 +989,31 @@
         "photoNote": "Report. Day 30. Ellis Town Campground to Pawnee National Grasslands.\n\nThe Navigator fixed a significant habitat module dust intrusion problem. Ambivalent about this — a small price to pay for miles of gravel road.\n\nTailwind pushed me all morning, giving the turbo another rest day.\n\nFound Colorado gravel into the Pawnee National Grasslands. Wild camp. 360-degree view of high prairie. My shadow inside a double rainbow. Good day noted.",
         "scale": 1
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.459655,
+          43.563281
+        ]
+      },
+      "properties": {
+        "day": 31,
+        "date": "2026-07-24",
+        "type": "camp",
+        "title": "Wyoming Obtained. Wind Rivers Imminent.",
+        "thought": "Buttes Windmill to Fremont County in one session — the Dometic is humming, the cases are stacked, and the Wind Rivers are somewhere out there in the dark.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "camp-habitat-module-interior.jpeg",
+        "photoCaption": "Interior of Waldo's habitat module with the pop-up roof deployed at camp. The Dometic fridge is on the left, and stacked aluminum expedition cases — including a rainbow trout sticker and the @waldo.roams decal — occupy the center of the bed.",
+        "photoNote": "",
+        "scale": 1
+      }
     }
   ],
-  "generated": "2026-07-24T02:37:35.377Z",
-  "totalEvents": 43
+  "generated": "2026-07-25T03:00:38.188Z",
+  "totalEvents": 44
 }
