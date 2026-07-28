@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T04:32:44.723Z",
+  "generated": "2026-07-28T04:41:12.849Z",
   "tracks": [
     {
       "sourceFile": "d001-gaithersburg-md-to-harbor-view-shelter-danbury-township-oh-usa.gpx",
@@ -192,6 +192,12 @@
       "geojson": "routes/d032-east-fork-fremont-county-wy-to-2520-wylie-avenue-missoula-mt-usa.geojson",
       "pointCount": 9638,
       "distanceKm": 742.84
+    },
+    {
+      "sourceFile": "d033-2520_Wylie_Avenue_to_Southgate_Inn-Missoula-MT-USA.gpx",
+      "geojson": "routes/d033-2520_Wylie_Avenue_to_Southgate_Inn-Missoula-MT-USA.geojson",
+      "pointCount": 2838,
+      "distanceKm": 101.654
     }
   ]
 }

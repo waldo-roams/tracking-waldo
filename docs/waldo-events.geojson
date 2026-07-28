@@ -1058,8 +1058,54 @@
         "photoNote": "",
         "scale": 1
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.961167,
+          46.875233
+        ]
+      },
+      "properties": {
+        "day": 33,
+        "date": "2026-07-26",
+        "type": "sighting",
+        "title": "Grace Gets Legs. Waldo Gets Parked.",
+        "thought": "The Navigator and Grace went up the L Trail while I sat in the lot at the trailhead — I'm told this counts as a rest day.",
+        "mood": "",
+        "status": "",
+        "photoFilename": "the-l-trail-missoula.jpeg",
+        "photoCaption": "The Navigator descending the L Trail on Mount Sentinel above Missoula, MT, with the city spread out in the smoky haze of the valley below.",
+        "photoNote": "",
+        "scale": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.969301,
+          46.887932
+        ]
+      },
+      "properties": {
+        "day": 33,
+        "date": "2026-07-26",
+        "type": "camp",
+        "title": "Southgate Inn. Missoula Night Two.",
+        "thought": "Two nights in Missoula — the L Trail got hiked, smoke hung over the valley all day, and Southgate Inn is apparently where we're sleeping. Fine.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": "",
+        "photoNote": "",
+        "scale": 1
+      }
     }
   ],
-  "generated": "2026-07-28T04:32:54.395Z",
-  "totalEvents": 46
+  "generated": "2026-07-28T04:41:18.036Z",
+  "totalEvents": 48
 }

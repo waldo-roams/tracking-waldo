@@ -48206,23 +48206,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Last Known Position",
-        "type": "current-position",
-        "sourceFile": "d032-east-fork-fremont-county-wy-to-2520-wylie-avenue-missoula-mt-usa.gpx",
-        "updated": "2026-07-28T04:32:44.723Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.969491,
-          46.887947,
-          1009.4
-        ]
-      }
     }
   ]
 }

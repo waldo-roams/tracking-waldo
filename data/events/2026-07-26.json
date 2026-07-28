@@ -1,0 +1,23 @@
+{
+  "day": 33,
+  "date": "2026-07-26",
+  "events": [
+    {
+      "type": "sighting",
+      "lat": 46.875233,
+      "lon": -113.961167,
+      "title": "Navigator Stretches Legs. Waldo Gets Parked.",
+      "thought": "The Navigator and Another went up the L Trail while I sat in the lot at the trailhead — I'm told this counts as a rest day.",
+      "photoFilename": "the-l-trail-missoula.jpeg",
+      "photoCaption": "The Navigator descending the L Trail on Mount Sentinel above Missoula, MT, with the city spread out in the smoky haze of the valley below."
+    },
+    {
+      "type": "camp",
+      "lat": 46.887932,
+      "lon": -113.969301,
+      "title": "Southgate Inn. Missoula Night Two.",
+      "thought": "Two nights in Missoula — the L Trail got hiked, smoke hung over the valley all day, and Southgate Inn is apparently where we're sleeping. Fine.",
+      "mood": "content"
+    }
+  ]
+}
