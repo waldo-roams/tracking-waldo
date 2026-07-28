@@ -1072,8 +1072,8 @@
         "day": 33,
         "date": "2026-07-26",
         "type": "sighting",
-        "title": "Grace Gets Legs. Waldo Gets Parked.",
-        "thought": "The Navigator and Grace went up the L Trail while I sat in the lot at the trailhead — I'm told this counts as a rest day.",
+        "title": "Navigator Stretches Legs. Waldo Gets Parked.",
+        "thought": "The Navigator and Another went up the L Trail while I sat in the lot at the trailhead — I'm told this counts as a rest day.",
         "mood": "",
         "status": "",
         "photoFilename": "the-l-trail-missoula.jpeg",
@@ -1104,8 +1104,54 @@
         "photoNote": "",
         "scale": 1
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.676681,
+          47.618708
+        ]
+      },
+      "properties": {
+        "day": 34,
+        "date": "2026-07-27",
+        "type": "sighting",
+        "title": "Mineral Ridge: Coeur d'Alene Under Wildfire Smoke",
+        "thought": "The Navigator went up Mineral Ridge while the smoke tried to make Lake Coeur d'Alene invisible — it mostly failed.",
+        "mood": "",
+        "status": "",
+        "photoFilename": "mineral-ridge-hike.jpeg",
+        "photoCaption": "View from Mineral Ridge National Recreation Trail above Beauty Bay, looking out over Lake Coeur d'Alene through heavy wildfire smoke haze, with pine trees in the foreground and forested hillsides fading into the distance.",
+        "photoNote": "",
+        "scale": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.664479,
+          47.604563
+        ]
+      },
+      "properties": {
+        "day": 34,
+        "date": "2026-07-27",
+        "type": "camp",
+        "title": "Beauty Creek Campground. Idaho Accepted.",
+        "thought": "Missoula to Kootenai County in one session — the smoke followed us the whole way, but Beauty Creek Campground is here and the air is probably fine.",
+        "mood": "cautious",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": "",
+        "photoNote": "",
+        "scale": 1
+      }
     }
   ],
-  "generated": "2026-07-28T04:41:18.036Z",
-  "totalEvents": 48
+  "generated": "2026-07-28T04:45:39.556Z",
+  "totalEvents": 50
 }

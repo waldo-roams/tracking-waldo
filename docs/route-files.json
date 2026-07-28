@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T04:41:12.849Z",
+  "generated": "2026-07-28T04:45:33.968Z",
   "tracks": [
     {
       "sourceFile": "d001-gaithersburg-md-to-harbor-view-shelter-danbury-township-oh-usa.gpx",
@@ -198,6 +198,12 @@
       "geojson": "routes/d033-2520_Wylie_Avenue_to_Southgate_Inn-Missoula-MT-USA.geojson",
       "pointCount": 2838,
       "distanceKm": 101.654
+    },
+    {
+      "sourceFile": "d034-2520_Wylie_Avenue-Missoula-MT_to_Beauty_Creek_Campground-Kootenai_County-ID-USA.gpx",
+      "geojson": "routes/d034-2520_Wylie_Avenue-Missoula-MT_to_Beauty_Creek_Campground-Kootenai_County-ID-USA.geojson",
+      "pointCount": 8494,
+      "distanceKm": 462.264
     }
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "day": 34,
+  "date": "2026-07-27",
+  "events": [
+    {
+      "type": "sighting",
+      "lat": 47.618708,
+      "lon": -116.676681,
+      "title": "Mineral Ridge: Coeur d'Alene Under Wildfire Smoke",
+      "thought": "The Navigator went up Mineral Ridge while the smoke tried to make Lake Coeur d'Alene invisible — it mostly failed.",
+      "photoFilename": "mineral-ridge-hike.jpeg",
+      "photoCaption": "View from Mineral Ridge National Recreation Trail above Beauty Bay, looking out over Lake Coeur d'Alene through heavy wildfire smoke haze, with pine trees in the foreground and forested hillsides fading into the distance."
+    },
+    {
+      "type": "camp",
+      "lat": 47.604563,
+      "lon": -116.664479,
+      "title": "Beauty Creek Campground. Idaho Accepted.",
+      "thought": "Missoula to Kootenai County in one session — the smoke followed us the whole way, but Beauty Creek Campground is here and the air is probably fine.",
+      "mood": "cautious"
+    }
+  ]
+}
