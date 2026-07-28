@@ -21561,23 +21561,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Last Known Position",
-        "type": "current-position",
-        "sourceFile": "d031-Buttes_Windmill-Weld_County-CO_to_Fremont_County-WY-USA.gpx",
-        "updated": "2026-07-25T03:00:25.046Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -109.459655,
-          43.563281,
-          2094.5
-        ]
-      }
     }
   ]
 }

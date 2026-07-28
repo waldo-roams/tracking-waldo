@@ -1012,8 +1012,54 @@
         "photoNote": "",
         "scale": 1
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.853247,
+          44.462575
+        ]
+      },
+      "properties": {
+        "day": 32,
+        "date": "2026-07-25",
+        "type": "sighting",
+        "title": "Black Sand Basin: Earth Doing Unusual Things",
+        "thought": "The ground is venting steam and smells like sulfur — Yellowstone's version of a welcome sign.",
+        "mood": "",
+        "status": "",
+        "photoFilename": "black-sand-basin-geyser-yellowstone-np.jpeg",
+        "photoCaption": "Black Sand Basin in Yellowstone National Park — a steaming hot spring pool surrounded by white silica flats and geothermally-killed standing trees, with dense forest and blue sky behind.",
+        "photoNote": "",
+        "scale": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.969491,
+          46.887947
+        ]
+      },
+      "properties": {
+        "day": 32,
+        "date": "2026-07-25",
+        "type": "camp",
+        "title": "Yellowstone to Missoula. That Happened.",
+        "thought": "Yellowstone to Missoula in one session — the Wind Rivers, Yellowstone, and 500 miles of Montana behind me, and Wylie Avenue exactly where I left it.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": "",
+        "photoNote": "",
+        "scale": 1
+      }
     }
   ],
-  "generated": "2026-07-25T03:00:38.188Z",
-  "totalEvents": 44
+  "generated": "2026-07-28T04:32:54.395Z",
+  "totalEvents": 46
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-25T03:00:25.046Z",
+  "generated": "2026-07-28T04:32:44.723Z",
   "tracks": [
     {
       "sourceFile": "d001-gaithersburg-md-to-harbor-view-shelter-danbury-township-oh-usa.gpx",
@@ -186,6 +186,12 @@
       "geojson": "routes/d031-Buttes_Windmill-Weld_County-CO_to_Fremont_County-WY-USA.geojson",
       "pointCount": 4309,
       "distanceKm": 654.84
+    },
+    {
+      "sourceFile": "d032-east-fork-fremont-county-wy-to-2520-wylie-avenue-missoula-mt-usa.gpx",
+      "geojson": "routes/d032-east-fork-fremont-county-wy-to-2520-wylie-avenue-missoula-mt-usa.geojson",
+      "pointCount": 9638,
+      "distanceKm": 742.84
     }
   ]
 }

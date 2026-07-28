@@ -1,0 +1,23 @@
+{
+  "day": 32,
+  "date": "2026-07-25",
+  "events": [
+    {
+      "type": "sighting",
+      "lat": 44.462575,
+      "lon": -110.853247,
+      "title": "Black Sand Basin: Earth Doing Unusual Things",
+      "thought": "The ground is venting steam and smells like sulfur — Yellowstone's version of a welcome sign.",
+      "photoFilename": "black-sand-basin-geyser-yellowstone-np.jpeg",
+      "photoCaption": "Black Sand Basin in Yellowstone National Park — a steaming hot spring pool surrounded by white silica flats and geothermally-killed standing trees, with dense forest and blue sky behind."
+    },
+    {
+      "type": "camp",
+      "lat": 46.887947,
+      "lon": -113.969491,
+      "title": "Yellowstone to Missoula. That Happened.",
+      "thought": "Yellowstone to Missoula in one session — the Wind Rivers, Yellowstone, and 500 miles of Montana behind me, and Wylie Avenue exactly where I left it.",
+      "mood": "content"
+    }
+  ]
+}
