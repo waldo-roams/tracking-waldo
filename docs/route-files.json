@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T04:45:33.968Z",
+  "generated": "2026-07-29T04:49:57.135Z",
   "tracks": [
     {
       "sourceFile": "d001-gaithersburg-md-to-harbor-view-shelter-danbury-township-oh-usa.gpx",
@@ -204,6 +204,12 @@
       "geojson": "routes/d034-2520_Wylie_Avenue-Missoula-MT_to_Beauty_Creek_Campground-Kootenai_County-ID-USA.geojson",
       "pointCount": 8494,
       "distanceKm": 462.264
+    },
+    {
+      "sourceFile": "d035-Beauty_Creek_Campground-Kootenai_County_to_Lower_Roman_Nose_Lake-Boundary_County-ID-USA.gpx",
+      "geojson": "routes/d035-Beauty_Creek_Campground-Kootenai_County_to_Lower_Roman_Nose_Lake-Boundary_County-ID-USA.geojson",
+      "pointCount": 4825,
+      "distanceKm": 209.676
     }
   ]
 }

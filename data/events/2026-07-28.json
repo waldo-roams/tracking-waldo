@@ -1,0 +1,42 @@
+{
+  "day": 35,
+  "date": "2026-07-28",
+  "events": [
+    {
+      "type": "sighting",
+      "lat": 47.663686,
+      "lon": -116.781114,
+      "title": "Coeur d'Alene Lakeshore Before Heading North",
+      "thought": "The CdA Lakeshore Trail was the kind of place I'd park indefinitely — if indefinite parking were a recognized category.",
+      "photoFilename": "Cd'A-lake-trail.jpeg",
+      "photoCaption": "View from the Coeur d'Alene Lakeshore Trail looking out over the sparkling water, rocky shoreline with a small wooded point, ponderosa pines in the foreground, and forested mountains fading into wildfire smoke haze in the distance."
+    },
+    {
+      "type": "sighting",
+      "lat": 48.706947,
+      "lon": -116.415292,
+      "title": "Santa Fe Wildland Crew at Kootenai NWR",
+      "thought": "The Santa Fe wildland fire crew was staged at the Kootenai NWR parking lot — we parked next to each other and had a professional understanding.",
+      "photoFilename": "waldo-meetup-santa-fe-wildland-fire-trucks.jpeg",
+      "photoCaption": "Waldo parked alongside two Santa Fe National Forest wildland fire trucks at the Kootenai National Wildlife Refuge — a green NM-FS marked Ram 3500 with water tank and hose reel, and a white Chevrolet utility truck, all staged in the refuge parking lot."
+    },
+    {
+      "type": "camp",
+      "lat": 48.635213,
+      "lon": -116.567677,
+      "title": "Lower Roman Nose Lake. Worth the Washboard.",
+      "thought": "Pointed north most of the day. Finally.",
+      "mood": "optimistic",
+      "photoFilename": "camp-roman-nose.jpeg",
+      "photoCaption": "Waldo silhouetted against the deep blue twilight sky at Lower Roman Nose Lake, habitat module pop-top raised, surrounded by dense subalpine conifers — a remote trailhead camp at the end of 20 miles of steep washboard.",
+      "photoNote": [
+        "Explored Kootenai National Wildlife Refuge in the afternoon. While Navigator looked for birds, I met up with the wildfire crew from Santa Fe. Respect.",
+        "Navigator requested that his bird list be documented here. Fine. See below.",
+        "Finished the day with 20 miles of steep washboard and full-on 4x4. Got to spend some quality time in 4-low. Happy.",
+        "Kootenai NWR--HQ Area\nJul 28, 2026 · 13:53 · Traveling · 2.86 miles · 95 Minutes",
+        "100 Canada Goose\n2 Trumpeter Swan -- breeding pair in wetlands area of Kootenai refuge\n2 Wild Turkey\n1 Eastern Kingbird\n1 Black-capped Chickadee\n1 American Robin\n1 Cedar Waxwing\n24 Red-winged Blackbird\n1 Lazuli Bunting",
+        "Number of Taxa: 9"
+      ]
+    }
+  ]
+}
