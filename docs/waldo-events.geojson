@@ -1219,8 +1219,100 @@
         "photoNote": "Explored Kootenai National Wildlife Refuge in the afternoon. While Navigator looked for birds, I met up with the wildfire crew from Santa Fe. Respect.\n\nNavigator requested that his bird list be documented here. Fine. See below.\n\nFinished the day with 20 miles of steep washboard and full-on 4x4. Got to spend some quality time in 4-low. Happy.\n\nKootenai NWR--HQ Area\nJul 28, 2026 · 13:53 · Traveling · 2.86 miles · 95 Minutes\n\n100 Canada Goose\n2 Trumpeter Swan -- breeding pair in wetlands area of Kootenai refuge\n2 Wild Turkey\n1 Eastern Kingbird\n1 Black-capped Chickadee\n1 American Robin\n1 Cedar Waxwing\n24 Red-winged Blackbird\n1 Lazuli Bunting\n\nNumber of Taxa: 9",
         "scale": 1
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.587158,
+          48.635628
+        ]
+      },
+      "properties": {
+        "day": 36,
+        "date": "2026-07-29",
+        "type": "sighting",
+        "title": "Upper Roman Nose Lake: Morning Inspection",
+        "thought": "Visited Upper Roman Nose before the descent — steep but navigable, which I consider a useful data point.",
+        "mood": "",
+        "status": "",
+        "photoFilename": "upper-roman-lake.jpeg",
+        "photoCaption": "Upper Roman Nose Lake in Boundary County, Idaho, near the trailhead camp, on a morning visit before the 4K descent.",
+        "photoNote": "",
+        "scale": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.629097,
+          49.117956
+        ]
+      },
+      "properties": {
+        "day": 36,
+        "date": "2026-07-29",
+        "type": "sighting",
+        "title": "Creston Valley Wetlands: Mandatory Slowdown",
+        "thought": "The Creston Valley WMA is exactly the kind of place The Navigator slows everything to 5 mph — I understand, but I have opinions about schedule.",
+        "mood": "",
+        "status": "",
+        "photoFilename": "creston-valley-wma.jpeg",
+        "photoCaption": "Creston Valley Wildlife Management Area, BC, a major wetland complex and migratory bird habitat in the Kootenay Valley.",
+        "photoNote": "",
+        "scale": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.824394,
+          49.676864
+        ]
+      },
+      "properties": {
+        "day": 36,
+        "date": "2026-07-29",
+        "type": "sighting",
+        "title": "Black Salt Cafe, Crawford Bay: Actual Food",
+        "thought": "The Black Salt Cafe in Crawford Bay was an unscheduled but entirely defensible logistics decision.",
+        "mood": "",
+        "status": "",
+        "photoFilename": "black-salt-cafe.JPG",
+        "photoCaption": "A plated meal at the Black Salt Cafe in Crawford Bay, BC — phyllo pastry roll with roasted beets, a dark rich soup with croutons, herbed tzatziki, and tapenade, served on a white rectangular plate at a red mosaic tile patio table.",
+        "photoNote": "",
+        "scale": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.85963,
+          49.86979
+        ]
+      },
+      "properties": {
+        "day": 36,
+        "date": "2026-07-29",
+        "type": "camp",
+        "title": "Garland Bay on Kootenay Lake. Back in BC.",
+        "thought": "More northward progress. And finally back in British Columbia. Feels like progress.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "camp-d036.jpeg",
+        "photoCaption": "Waldo at Garland Bay Recreation Site on Kootenay Lake, British Columbia.",
+        "photoNote": "Drifted down the 4K descent from Roman Nose on empty. Good practice hacking the hybrid battery for distance. Some unexplained noises on 4WD. Its probably fine.\n\nMoved into the smoke. Then moved back out. Ended the day with the back pointed to the sunset.",
+        "scale": 1
+      }
     }
   ],
-  "generated": "2026-07-29T04:50:06.239Z",
-  "totalEvents": 53
+  "generated": "2026-07-30T05:03:43.163Z",
+  "totalEvents": 57
 }

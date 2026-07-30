@@ -1,0 +1,47 @@
+{
+  "day": 36,
+  "date": "2026-07-29",
+  "events": [
+    {
+      "type": "sighting",
+      "lat": 48.635628,
+      "lon": -116.587158,
+      "title": "Upper Roman Nose Lake: Morning Inspection",
+      "thought": "Visited Upper Roman Nose before the descent — steep but navigable, which I consider a useful data point.",
+      "photoFilename": "upper-roman-lake.jpeg",
+      "photoCaption": "Upper Roman Nose Lake in Boundary County, Idaho, near the trailhead camp, on a morning visit before the 4K descent."
+    },
+    {
+      "type": "sighting",
+      "lat": 49.117956,
+      "lon": -116.629097,
+      "title": "Creston Valley Wetlands: Mandatory Slowdown",
+      "thought": "The Creston Valley WMA is exactly the kind of place The Navigator slows everything to 5 mph — I understand, but I have opinions about schedule.",
+      "photoFilename": "creston-valley-wma.jpeg",
+      "photoCaption": "Creston Valley Wildlife Management Area, BC, a major wetland complex and migratory bird habitat in the Kootenay Valley."
+    },
+    {
+      "type": "sighting",
+      "lat": 49.676864,
+      "lon": -116.824394,
+      "title": "Black Salt Cafe, Crawford Bay: Actual Food",
+      "thought": "The Black Salt Cafe in Crawford Bay was an unscheduled but entirely defensible logistics decision.",
+      "photoFilename": "black-salt-cafe.JPG",
+      "photoCaption": "A plated meal at the Black Salt Cafe in Crawford Bay, BC — phyllo pastry roll with roasted beets, a dark rich soup with croutons, herbed tzatziki, and tapenade, served on a white rectangular plate at a red mosaic tile patio table."
+    },
+    {
+      "type": "camp",
+      "lat": 49.869790,
+      "lon": -116.859630,
+      "title": "Garland Bay on Kootenay Lake. Back in BC.",
+      "thought": "More northward progress. And finally back in British Columbia. Feels like progress.",
+      "mood": "optimistic",
+      "photoFilename": "camp-d036.jpeg",
+      "photoCaption": "Waldo at Garland Bay Recreation Site on Kootenay Lake, British Columbia.",
+      "photoNote": [
+        "Drifted down the 4K descent from Roman Nose on empty. Good practice hacking the hybrid battery for distance. Some unexplained noises on 4WD. Its probably fine.",
+        "Moved into the smoke. Then moved back out. Ended the day with the back pointed to the sunset."
+      ]
+    }
+  ]
+}

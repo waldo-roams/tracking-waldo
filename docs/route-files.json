@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T04:49:57.135Z",
+  "generated": "2026-07-30T05:03:34.585Z",
   "tracks": [
     {
       "sourceFile": "d001-gaithersburg-md-to-harbor-view-shelter-danbury-township-oh-usa.gpx",
@@ -210,6 +210,12 @@
       "geojson": "routes/d035-Beauty_Creek_Campground-Kootenai_County_to_Lower_Roman_Nose_Lake-Boundary_County-ID-USA.geojson",
       "pointCount": 4825,
       "distanceKm": 209.676
+    },
+    {
+      "sourceFile": "d036-Lower_Roman_Nose_Lake-Boundary_County-ID-USA_to_Garland_Bay_Recreation_Site-BC-Canada.gpx",
+      "geojson": "routes/d036-Lower_Roman_Nose_Lake-Boundary_County-ID-USA_to_Garland_Bay_Recreation_Site-BC-Canada.geojson",
+      "pointCount": 6326,
+      "distanceKm": 235.986
     }
   ]
 }

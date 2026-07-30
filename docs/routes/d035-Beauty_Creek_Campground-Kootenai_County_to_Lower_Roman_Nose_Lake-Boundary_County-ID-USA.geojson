@@ -24140,23 +24140,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Last Known Position",
-        "type": "current-position",
-        "sourceFile": "d035-Beauty_Creek_Campground-Kootenai_County_to_Lower_Roman_Nose_Lake-Boundary_County-ID-USA.gpx",
-        "updated": "2026-07-29T04:49:57.135Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.567677,
-          48.635213,
-          1819.1
-        ]
-      }
     }
   ]
 }
