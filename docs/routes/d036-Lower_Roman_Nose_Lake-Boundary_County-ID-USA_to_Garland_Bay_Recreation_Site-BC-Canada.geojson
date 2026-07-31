@@ -31644,23 +31644,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Last Known Position",
-        "type": "current-position",
-        "sourceFile": "d036-Lower_Roman_Nose_Lake-Boundary_County-ID-USA_to_Garland_Bay_Recreation_Site-BC-Canada.gpx",
-        "updated": "2026-07-30T05:03:34.586Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.85963,
-          49.86979,
-          538.9
-        ]
-      }
     }
   ]
 }

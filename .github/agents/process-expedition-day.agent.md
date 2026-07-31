@@ -97,6 +97,7 @@ node -e "
 **Sidecar text** (`photoNote`):
 - Check for a `.txt` file with the same stem as the photo (e.g. `d025-river.txt` for `d025-river.jpeg`)
 - If found, read it and split into paragraphs on blank lines → array of strings for `photoNote`
+- **Parenthetical text**: any text enclosed in `(parentheses)` anywhere in the sidecar is raw notes and rough ideas from The Navigator — not final copy. Extract that content, remove the parentheses entirely, rewrite the ideas in Waldo's voice, and incorporate the result into the `photoNote` array. Do not pass parenthetical text through verbatim.
 - If not found, omit `photoNote` entirely
 
 ---

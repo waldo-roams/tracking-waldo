@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30T05:03:34.585Z",
+  "generated": "2026-07-31T04:54:57.416Z",
   "tracks": [
     {
       "sourceFile": "d001-gaithersburg-md-to-harbor-view-shelter-danbury-township-oh-usa.gpx",
@@ -216,6 +216,12 @@
       "geojson": "routes/d036-Lower_Roman_Nose_Lake-Boundary_County-ID-USA_to_Garland_Bay_Recreation_Site-BC-Canada.geojson",
       "pointCount": 6326,
       "distanceKm": 235.986
+    },
+    {
+      "sourceFile": "d037-Garland_Bay_Recreation_Site_to_Friends_Campground_And_Day_Use-BC-Canada.gpx",
+      "geojson": "routes/d037-Garland_Bay_Recreation_Site_to_Friends_Campground_And_Day_Use-BC-Canada.geojson",
+      "pointCount": 3998,
+      "distanceKm": 91.837
     }
   ]
 }
