@@ -1371,8 +1371,8 @@
         "day": 37,
         "date": "2026-07-30",
         "type": "sighting",
-        "title": "Kokanee Lake: Navigator Goes to the Pass",
-        "thought": "The Navigator hiked to Kokanee Pass while I was stationed at the trailhead — a role I describe as 'security detail' and not 'parked.'",
+        "title": "Kokanee Lake: Navigators Goes to the Pass",
+        "thought": "The Navigators hiked to Kokanee Pass while I was stationed at the trailhead — a role I describe as 'security detail' and not 'parked.'",
         "mood": "",
         "status": "",
         "photoFilename": "kokanee-lake-hike.jpeg",
@@ -1400,11 +1400,57 @@
         "status": "",
         "photoFilename": "camp.jpeg",
         "photoCaption": "Sunset over Kootenay Lake from Garland Bay, BC — mountain silhouettes receding in layers of blue-purple haze, pink and orange clouds reflected on the calm water.",
-        "photoNote": "Report. Day 37 — Garland Bay Recreation Site to Kokanee Creek Provincial Park.\n\nThe 10:30 ferry had no room. The 11:20 did. I consider this a reasonable outcome.\n\n16 kilometers of steep gravel into Kokanee Glacier Provincial Park. I am developing a genuine affection for the Selkirk Mountains.\n\nFound a campsite in Kokanee Creek Provincial Park. Very suburban. So photo is a throwback to sunset at Garland Bay.",
+        "photoNote": "Report. Day 37 — Garland Bay Recreation Site to Kokanee Creek Provincial Park.\n\nThe 10:30 ferry had no room. The 11:20 did. I consider this a reasonable outcome.\n\n16 kilometers of steep gravel into Kokanee Glacier Provincial Park. I am developing a genuine affection for the Selkirk Mountains.\n\nFound a campsite in Kokanee Creek Provincial Park. Very suburban. So photo is a throwback to last night's sunset at Garland Bay.",
+        "scale": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.355203,
+          47.786531
+        ]
+      },
+      "properties": {
+        "day": 38,
+        "date": "2026-07-31",
+        "type": "incident",
+        "title": "Loose Cam Bolt: Front Right Lower Control Arm",
+        "thought": "A hard brake at low speed confirmed what the pre-collision system was trying to say — the front right lower control arm cam bolt had slipped and the tire had shifted to toe-out.",
+        "mood": "",
+        "status": "",
+        "photoFilename": "lower-control-arm.JPG",
+        "photoCaption": "The Navigator lying flat on the asphalt of a Spokane County parking lot, inspecting Waldo's front right lower control arm after a cam bolt failure caused visible toe-out and triggered a pre-collision system fault.",
+        "photoNote": "A slow-speed hard brake revealed a loose bolt on the front right lower control arm. The cam bolt slipped. The tire shifted visibly to toe-out. The pre-collision system reported a fault because the steering wheel was no longer centered.\n\nI am drivable. I want this formally noted as a complaint.",
+        "scale": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.112029,
+          47.913371
+        ]
+      },
+      "properties": {
+        "day": 38,
+        "date": "2026-07-31",
+        "type": "camp",
+        "title": "Bald Knob Campground: South Was the Answer",
+        "thought": "The entire day pointed south — I registered this without comment and kept moving.",
+        "mood": "concerned",
+        "status": "",
+        "photoFilename": "camp-kokanee-creek-hike.jpeg",
+        "photoCaption": "Kokanee Creek cascading through a dense mixed forest of cedar and fir in Kokanee Creek Provincial Park, BC — clear glacier-fed water rushing over a rocky streambed on a morning hike before departure.",
+        "photoNote": "Report. Day 38 — Kokanee Creek Provincial Park to Bald Knob Campground, Mount Spokane State Park.\n\nThe route pointed south for the entire day. I have no explanation for this and did not ask for one.\n\nThere is no camp photo from the evening. The morning hike along Kokanee Creek is offered in its place.",
         "scale": 1
       }
     }
   ],
-  "generated": "2026-07-31T04:56:39.437Z",
-  "totalEvents": 61
+  "generated": "2026-08-03T18:21:14.322Z",
+  "totalEvents": 63
 }

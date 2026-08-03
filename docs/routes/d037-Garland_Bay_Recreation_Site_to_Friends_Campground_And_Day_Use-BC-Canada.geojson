@@ -20006,23 +20006,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Last Known Position",
-        "type": "current-position",
-        "sourceFile": "d037-Garland_Bay_Recreation_Site_to_Friends_Campground_And_Day_Use-BC-Canada.gpx",
-        "updated": "2026-07-31T04:54:57.416Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.117179,
-          49.607366,
-          534.9
-        ]
-      }
     }
   ]
 }

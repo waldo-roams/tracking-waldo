@@ -1,0 +1,34 @@
+{
+  "day": 38,
+  "date": "2026-07-31",
+  "events": [
+    {
+      "type": "incident",
+      "lat": 47.786531,
+      "lon": -117.355203,
+      "title": "Loose Cam Bolt: Front Right Lower Control Arm",
+      "thought": "A hard brake at low speed confirmed what the pre-collision system was trying to say — the front right lower control arm cam bolt had slipped and the tire had shifted to toe-out.",
+      "photoFilename": "lower-control-arm.JPG",
+      "photoCaption": "The Navigator lying flat on the asphalt of a Spokane County parking lot, inspecting Waldo's front right lower control arm after a cam bolt failure caused visible toe-out and triggered a pre-collision system fault.",
+      "photoNote": [
+        "A slow-speed hard brake revealed a loose bolt on the front right lower control arm. The cam bolt slipped. The tire shifted visibly to toe-out. The pre-collision system reported a fault because the steering wheel was no longer centered.",
+        "I am drivable. I want this formally noted as a complaint."
+      ]
+    },
+    {
+      "type": "camp",
+      "lat": 47.913371,
+      "lon": -117.112029,
+      "title": "Bald Knob Campground: South Was the Answer",
+      "thought": "The entire day pointed south — I registered this without comment and kept moving.",
+      "mood": "concerned",
+      "photoFilename": "camp-kokanee-creek-hike.jpeg",
+      "photoCaption": "Kokanee Creek cascading through a dense mixed forest of cedar and fir in Kokanee Creek Provincial Park, BC — clear glacier-fed water rushing over a rocky streambed on a morning hike before departure.",
+      "photoNote": [
+        "Report. Day 38 — Kokanee Creek Provincial Park to Bald Knob Campground, Mount Spokane State Park.",
+        "The route pointed south for the entire day. I have no explanation for this and did not ask for one.",
+        "There is no camp photo from the evening. The morning hike along Kokanee Creek is offered in its place."
+      ]
+    }
+  ]
+}
