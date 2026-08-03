@@ -1537,12 +1537,35 @@
         "mood": "cautious",
         "status": "",
         "photoFilename": "d039-camp.jpeg",
-        "photoCaption": "Waldo fully deployed at Liberty Lake County Park — habitat module pop-top raised, awning extended, camp stove set out on a folding table alongside a blue water jug, in a pine-shaded gravel campsite.",
+        "photoCaption": "Waldo fully deployed at Liberty Lake County Park — habitat module pop-top raised, awning extended, camp stove set out in a pine-shaded gravel campsite.",
         "photoNote": "Report. Day 39 — Mount Spokane State Park to Liberty Lake County Park.\n\nPlan A was Riverside State Park. A wildfire in Spokane triggered Level 3 evacuations across the city, including Riverside State Park.\n\nPlan B was Liberty Lake County Park. Plan B was adequate.",
+        "scale": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.058921,
+          47.631348
+        ]
+      },
+      "properties": {
+        "day": 40,
+        "date": "2026-08-02",
+        "type": "camp",
+        "title": "Back Into Spokane. Carefully.",
+        "thought": "Returned to Spokane avoiding the evacuation zones and found the city park and the river genuinely worth the visit.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "camp-exploring-spokane.JPG",
+        "photoCaption": "The Spokane River rushing over the lower falls at Riverfront Park in downtown Spokane — basalt rock formations, white water, the historic rail bridge overhead, and the geodesic dome of the former Expo '74 pavilion visible through wildfire smoke haze.",
+        "photoNote": "Report. Day 40 — Liberty Lake County Park, second night.\n\nWorked back into Spokane for the day, staying well clear of the evacuation areas. The city park is remarkable. The neighborhoods are too.\n\nThere is no camp photo. Camp was again at Liberty Lake County Park. The Spokane River is offered in its place.",
         "scale": 1
       }
     }
   ],
-  "generated": "2026-08-03T18:37:04.843Z",
-  "totalEvents": 67
+  "generated": "2026-08-03T18:44:56.796Z",
+  "totalEvents": 68
 }

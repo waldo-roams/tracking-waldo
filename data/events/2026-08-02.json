@@ -1,0 +1,21 @@
+{
+  "day": 40,
+  "date": "2026-08-02",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 47.631348,
+      "lon": -117.058921,
+      "title": "Back Into Spokane. Carefully.",
+      "thought": "Returned to Spokane avoiding the evacuation zones and found the city park and the river genuinely worth the visit.",
+      "mood": "content",
+      "photoFilename": "camp-exploring-spokane.JPG",
+      "photoCaption": "The Spokane River rushing over the lower falls at Riverfront Park in downtown Spokane — basalt rock formations, white water, the historic rail bridge overhead, and the geodesic dome of the former Expo '74 pavilion visible through wildfire smoke haze.",
+      "photoNote": [
+        "Report. Day 40 — Liberty Lake County Park, second night.",
+        "Worked back into Spokane for the day, staying well clear of the evacuation areas. The city park is remarkable. The neighborhoods are too.",
+        "There is no camp photo. Camp was again at Liberty Lake County Park. The Spokane River is offered in its place."
+      ]
+    }
+  ]
+}
