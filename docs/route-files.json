@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03T18:21:03.750Z",
+  "generated": "2026-08-03T18:36:48.581Z",
   "tracks": [
     {
       "sourceFile": "d001-gaithersburg-md-to-harbor-view-shelter-danbury-township-oh-usa.gpx",
@@ -228,6 +228,12 @@
       "geojson": "routes/d038-Friends_Campground_And_Day_Use-BC-Canada_to_Bald_Knob_Campground-Spokane_County-WA-USA.geojson",
       "pointCount": 6010,
       "distanceKm": 300.925
+    },
+    {
+      "sourceFile": "d039-Bald_Knob_Campground_to_Group_Camping_Site-Spokane_County-WA-USA.gpx",
+      "geojson": "routes/d039-Bald_Knob_Campground_to_Group_Camping_Site-Spokane_County-WA-USA.geojson",
+      "pointCount": 3267,
+      "distanceKm": 88.163
     }
   ]
 }

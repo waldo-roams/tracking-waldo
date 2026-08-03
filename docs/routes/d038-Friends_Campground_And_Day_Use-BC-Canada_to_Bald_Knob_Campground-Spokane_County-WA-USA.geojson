@@ -30066,23 +30066,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Last Known Position",
-        "type": "current-position",
-        "sourceFile": "d038-Friends_Campground_And_Day_Use-BC-Canada_to_Bald_Knob_Campground-Spokane_County-WA-USA.gpx",
-        "updated": "2026-08-03T18:21:03.751Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.112029,
-          47.913371,
-          1558.1
-        ]
-      }
     }
   ]
 }

@@ -1449,8 +1449,100 @@
         "photoNote": "Report. Day 38 — Kokanee Creek Provincial Park to Bald Knob Campground, Mount Spokane State Park.\n\nThe route pointed south for the entire day. I have no explanation for this and did not ask for one.\n\nThere is no camp photo from the evening. The morning hike along Kokanee Creek is offered in its place.",
         "scale": 1
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.113861,
+          47.913761
+        ]
+      },
+      "properties": {
+        "day": 39,
+        "date": "2026-08-01",
+        "type": "sighting",
+        "title": "Morning Hike at Mount Spokane",
+        "thought": "The morning at Mount Spokane was unremarkable in the best possible way — cool air, good trail, no evacuation orders.",
+        "mood": "",
+        "status": "",
+        "photoFilename": "mount-spokane-hike.JPG",
+        "photoCaption": "Morning hike at Mount Spokane State Park near Bald Knob Campground before departure.",
+        "photoNote": "",
+        "scale": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.355331,
+          47.787944
+        ]
+      },
+      "properties": {
+        "day": 39,
+        "date": "2026-08-01",
+        "type": "sighting",
+        "title": "Old Trails Fire: Smoke Over Spokane",
+        "thought": "Those plumes were not scenic — they were inside the city, and the phones confirmed it before I had time to form a second opinion.",
+        "mood": "",
+        "status": "",
+        "photoFilename": "spokane-wildfire.JPG",
+        "photoCaption": "Massive smoke columns from the Old Trails Fire rising from inside the city of Spokane, WA — orange-brown sky with the sun barely visible as multiple plumes tower over suburban rooftops and a treeline along the road.",
+        "photoNote": "Working the backroads into Spokane, I spotted smoke plumes that appeared to originate from inside the city itself.\n\nThe phones issued Level 3 evacuation orders shortly after. I interpreted this as a signal to revise the plan.",
+        "scale": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.105672,
+          47.668589
+        ]
+      },
+      "properties": {
+        "day": 39,
+        "date": "2026-08-01",
+        "type": "incident",
+        "title": "Level 3 Evacuation: Old Trails Fire, Spokane",
+        "thought": "The evacuation zone was expanding quickly and Riverside State Park was in the path — the decision to leave was not a difficult one.",
+        "mood": "",
+        "status": "",
+        "photoFilename": "spokane-wildfire-evacuation.jpeg",
+        "photoCaption": "iPhone lock screen showing critical emergency alerts for the Old Trails Fire in Spokane, WA — Level 3 Evacuations expanding for a large region, with a traffic alert restricting access to evacuation routes. Gaia GPS shows the vehicle nearly stopped at 45.93 miles into the day.",
+        "photoNote": "",
+        "scale": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.057649,
+          47.631482
+        ]
+      },
+      "properties": {
+        "day": 39,
+        "date": "2026-08-01",
+        "type": "camp",
+        "title": "Liberty Lake County Park: Plan B Executed",
+        "thought": "Plan A was Riverside State Park. The Old Trails Fire had other ideas.",
+        "mood": "cautious",
+        "status": "",
+        "photoFilename": "d039-camp.jpeg",
+        "photoCaption": "Waldo fully deployed at Liberty Lake County Park — habitat module pop-top raised, awning extended, camp stove set out on a folding table alongside a blue water jug, in a pine-shaded gravel campsite.",
+        "photoNote": "Report. Day 39 — Mount Spokane State Park to Liberty Lake County Park.\n\nPlan A was Riverside State Park. A wildfire in Spokane triggered Level 3 evacuations across the city, including Riverside State Park.\n\nPlan B was Liberty Lake County Park. Plan B was adequate.",
+        "scale": 1
+      }
     }
   ],
-  "generated": "2026-08-03T18:21:14.322Z",
-  "totalEvents": 63
+  "generated": "2026-08-03T18:37:04.843Z",
+  "totalEvents": 67
 }
