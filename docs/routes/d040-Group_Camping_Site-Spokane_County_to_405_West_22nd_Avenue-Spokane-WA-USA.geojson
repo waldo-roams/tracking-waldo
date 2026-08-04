@@ -14736,23 +14736,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Last Known Position",
-        "type": "current-position",
-        "sourceFile": "d040-Group_Camping_Site-Spokane_County_to_405_West_22nd_Avenue-Spokane-WA-USA.gpx",
-        "updated": "2026-08-03T18:44:45.762Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.058921,
-          47.631348,
-          632.9
-        ]
-      }
     }
   ]
 }

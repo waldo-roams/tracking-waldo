@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03T18:44:45.761Z",
+  "generated": "2026-08-04T04:44:22.496Z",
   "tracks": [
     {
       "sourceFile": "d001-gaithersburg-md-to-harbor-view-shelter-danbury-township-oh-usa.gpx",
@@ -240,6 +240,12 @@
       "geojson": "routes/d040-Group_Camping_Site-Spokane_County_to_405_West_22nd_Avenue-Spokane-WA-USA.geojson",
       "pointCount": 2944,
       "distanceKm": 106.018
+    },
+    {
+      "sourceFile": "d041-3719_South_Zephyr_Road-Spokane_County-WA-USA_to_Texas_Creek_Campground-BC-Canada.gpx",
+      "geojson": "routes/d041-3719_South_Zephyr_Road-Spokane_County-WA-USA_to_Texas_Creek_Campground-BC-Canada.geojson",
+      "pointCount": 4281,
+      "distanceKm": 275.515
     }
   ]
 }

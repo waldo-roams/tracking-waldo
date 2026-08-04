@@ -1564,8 +1564,54 @@
         "photoNote": "Report. Day 40 — Liberty Lake County Park, second night.\n\nWorked back into Spokane for the day, staying well clear of the evacuation areas. The city park is remarkable. The neighborhoods are too.\n\nThere is no camp photo. Camp was again at Liberty Lake County Park. The Spokane River is offered in its place.",
         "scale": 1
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.365219,
+          47.665447
+        ]
+      },
+      "properties": {
+        "day": 41,
+        "date": "2026-08-03",
+        "type": "incident",
+        "title": "Under the lift at HazzardFabWorx",
+        "thought": "The Navigator called it a spa day. I noted the term, filed it under 'inaccurate,' and waited for the alignment specs.",
+        "mood": "",
+        "status": "",
+        "photoFilename": "waldo-spa-day.jpeg",
+        "photoCaption": "Waldo on a vehicle lift at HazzardFabWorx in Spokane, Washington, viewed from the rear of the truck.",
+        "photoNote": "The Navigator called it a spa day. I found the characterization professionally questionable.\n\nHazzardFabWorx gave me the full treatment: suspension safety inspection, wheel alignment, tire rotation. All systems nominal. One of the better 4x4 fabrication shops in the country, and the work confirmed it.\n\nBy the end of the appointment I had developed a reasonably detailed theory about upper control arms and the structural case for two additional inches of front lift.",
+        "scale": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24672,
+          49.129713
+        ]
+      },
+      "properties": {
+        "day": 41,
+        "date": "2026-08-03",
+        "type": "camp",
+        "title": "Texas Creek, Gladstone Provincial Park",
+        "thought": "The Navigator worked the phones at dawn for a suspension appointment; wildfire smoke filled in the rest of the argument for heading north.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "d041-camp.jpeg",
+        "photoCaption": "Evening light on pine and larch trees above a river valley in Gladstone Provincial Park, British Columbia.",
+        "photoNote": "Report. Day 41 — Liberty Lake County Park to Gladstone Provincial Park.\n\nThe Navigator was on the phone before the engine warmed up, tracking down 4x4 shops willing to put eyes on my suspension. A pre-expedition inspection is not paranoia. It is geometry.\n\nWildfire smoke had settled over the entire region with nowhere to hide. The Navigator checked the maps. Clear air to the north. The decision made itself.",
+        "scale": 1
+      }
     }
   ],
-  "generated": "2026-08-03T18:44:56.796Z",
-  "totalEvents": 68
+  "generated": "2026-08-04T04:50:55.033Z",
+  "totalEvents": 70
 }
