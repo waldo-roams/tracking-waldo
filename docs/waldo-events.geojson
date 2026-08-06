@@ -1584,7 +1584,7 @@
         "status": "",
         "photoFilename": "waldo-spa-day.jpeg",
         "photoCaption": "Waldo on a vehicle lift at HazzardFabWorx in Spokane, Washington, viewed from the rear of the truck.",
-        "photoNote": "The Navigator called it a spa day. I found the characterization professionally questionable.\n\nHazzardFabWorx gave me the full treatment: suspension safety inspection, wheel alignment, tire rotation. All systems nominal. One of the better 4x4 fabrication shops in the country, and the work confirmed it.\n\nBy the end of the appointment I had developed a reasonably detailed theory about upper control arms and the structural case for two additional inches of front lift.",
+        "photoNote": "The Navigator called it a spa day. I found the characterization professionally offensive.\n\nHazzardFabWorx gave me the full treatment: suspension safety inspection, wheel alignment, tire rotation. All systems nominal. One of the better 4x4 fabrication shops in the country, and the work confirmed it.\n\nBy the end of the appointment I had developed a reasonably detailed theory about upper control arms and the structural case for two additional inches of front lift.",
         "scale": 1
       }
     },
@@ -1610,8 +1610,77 @@
         "photoNote": "Report. Day 41 — Liberty Lake County Park to Gladstone Provincial Park.\n\nThe Navigator was on the phone before the engine warmed up, tracking down 4x4 shops willing to put eyes on my suspension. A pre-expedition inspection is not paranoia. It is geometry.\n\nWildfire smoke had settled over the entire region with nowhere to hide. The Navigator checked the maps. Clear air to the north. The decision made itself.",
         "scale": 1
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.927033,
+          50.629914
+        ]
+      },
+      "properties": {
+        "day": 42,
+        "date": "2026-08-04",
+        "type": "ferry",
+        "title": "Last aboard the Galena Ferry",
+        "thought": "Zero clearance, one successful boarding — I have decided to count that as a skill.",
+        "mood": "",
+        "status": "",
+        "photoFilename": "galena-ferry-crossing.jpeg",
+        "photoCaption": "The Galena Ferry deck densely loaded with RVs, pickup trucks, and SUVs, with the ferry's white wheelhouse rising above the parked vehicles and forested mountains visible behind it on Upper Arrow Lake, British Columbia.",
+        "photoNote": "",
+        "scale": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.142386,
+          51.049911
+        ]
+      },
+      "properties": {
+        "day": 42,
+        "date": "2026-08-04",
+        "type": "sighting",
+        "title": "Summit lookout, Mount Revelstoke",
+        "thought": "The Navigator hiked to 6,362 feet while I occupied the parking lot below, contributing in my own way.",
+        "mood": "",
+        "status": "",
+        "photoFilename": "views-from-revelstoke-peak.jpeg",
+        "photoCaption": "A person with a backpack stands on a rocky outcrop photographing subalpine spruce forest and a range of rugged, snow-patched peaks from the summit area of Mount Revelstoke National Park.",
+        "photoNote": "",
+        "scale": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.198343,
+          50.940121
+        ]
+      },
+      "properties": {
+        "day": 42,
+        "date": "2026-08-04",
+        "type": "camp",
+        "title": "Tucked in at Begbie Falls",
+        "thought": "Ferry made, summit claimed, campsite secured — by any reasonable measure, a productive day.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "camp-begbie-falls-rec-site.jpeg",
+        "photoCaption": "A black Toyota Tacoma with a rooftop tent popped open, parked on a dirt site among tall conifers at dusk, with mountain ridges visible through the trees.",
+        "photoNote": "Report. Day 42.\n\nRolled north — the correct direction. Made the Galena Ferry with barely enough room on deck, which the crew appeared to find acceptable. After a quick detour to claim a site at Begbie Falls Rec Site, the Navigator made a solo summit run to the top of Mount Revelstoke at 6,362 feet while I held position at the trailhead.",
+        "scale": 1
+      }
     }
   ],
-  "generated": "2026-08-04T04:50:55.033Z",
-  "totalEvents": 70
+  "generated": "2026-08-06T04:21:11.063Z",
+  "totalEvents": 73
 }

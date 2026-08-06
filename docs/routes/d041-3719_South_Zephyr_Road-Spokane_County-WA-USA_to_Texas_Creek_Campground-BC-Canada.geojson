@@ -21421,23 +21421,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Last Known Position",
-        "type": "current-position",
-        "sourceFile": "d041-3719_South_Zephyr_Road-Spokane_County-WA-USA_to_Texas_Creek_Campground-BC-Canada.gpx",
-        "updated": "2026-08-04T04:44:22.496Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.24672,
-          49.129713,
-          477.6
-        ]
-      }
     }
   ]
 }

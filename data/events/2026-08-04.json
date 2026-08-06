@@ -1,0 +1,38 @@
+{
+  "day": 42,
+  "date": "2026-08-04",
+  "events": [
+    {
+      "type": "ferry",
+      "lat": 50.629914,
+      "lon": -117.927033,
+      "title": "Last aboard the Galena Ferry",
+      "thought": "Zero clearance, one successful boarding — I have decided to count that as a skill.",
+      "photoFilename": "galena-ferry-crossing.jpeg",
+      "photoCaption": "The Galena Ferry deck densely loaded with RVs, pickup trucks, and SUVs, with the ferry's white wheelhouse rising above the parked vehicles and forested mountains visible behind it on Upper Arrow Lake, British Columbia."
+    },
+    {
+      "type": "sighting",
+      "lat": 51.049911,
+      "lon": -118.142386,
+      "title": "Summit lookout, Mount Revelstoke",
+      "thought": "The Navigator hiked to 6,362 feet while I occupied the parking lot below, contributing in my own way.",
+      "photoFilename": "views-from-revelstoke-peak.jpeg",
+      "photoCaption": "A person with a backpack stands on a rocky outcrop photographing subalpine spruce forest and a range of rugged, snow-patched peaks from the summit area of Mount Revelstoke National Park."
+    },
+    {
+      "type": "camp",
+      "lat": 50.940121,
+      "lon": -118.198343,
+      "title": "Tucked in at Begbie Falls",
+      "thought": "Ferry made, summit claimed, campsite secured — by any reasonable measure, a productive day.",
+      "mood": "content",
+      "photoFilename": "camp-begbie-falls-rec-site.jpeg",
+      "photoCaption": "A Toyota Tacoma with habitat module deployed, parked on a dirt site among tall conifers at dusk, with mountain ridges visible through the trees.",
+      "photoNote": [
+        "Report. Day 42.",
+        "Rolled north — the correct direction. Made the Galena Ferry with barely enough room on deck, which the crew appeared to find acceptable. After a quick detour to claim a site at Begbie Falls Rec Site, the Navigator made a solo summit run to the top of Mount Revelstoke at 6,362 feet while I held position at the trailhead."
+      ]
+    }
+  ]
+}

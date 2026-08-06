@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T04:44:22.496Z",
+  "generated": "2026-08-06T04:13:24.119Z",
   "tracks": [
     {
       "sourceFile": "d001-gaithersburg-md-to-harbor-view-shelter-danbury-township-oh-usa.gpx",
@@ -246,6 +246,12 @@
       "geojson": "routes/d041-3719_South_Zephyr_Road-Spokane_County-WA-USA_to_Texas_Creek_Campground-BC-Canada.geojson",
       "pointCount": 4281,
       "distanceKm": 275.515
+    },
+    {
+      "sourceFile": "d042-Texas_Creek_Campground_to_Begbie_Falls_Rec_Site-BC-Canada.gpx",
+      "geojson": "routes/d042-Texas_Creek_Campground_to_Begbie_Falls_Rec_Site-BC-Canada.geojson",
+      "pointCount": 9014,
+      "distanceKm": 403.251
     }
   ]
 }
