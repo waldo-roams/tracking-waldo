@@ -45086,23 +45086,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Last Known Position",
-        "type": "current-position",
-        "sourceFile": "d042-Texas_Creek_Campground_to_Begbie_Falls_Rec_Site-BC-Canada.gpx",
-        "updated": "2026-08-06T04:13:24.120Z"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.198343,
-          50.940121,
-          543.5
-        ]
-      }
     }
   ]
 }

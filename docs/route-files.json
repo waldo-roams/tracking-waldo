@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-06T04:13:24.119Z",
+  "generated": "2026-08-06T04:26:18.048Z",
   "tracks": [
     {
       "sourceFile": "d001-gaithersburg-md-to-harbor-view-shelter-danbury-township-oh-usa.gpx",
@@ -252,6 +252,12 @@
       "geojson": "routes/d042-Texas_Creek_Campground_to_Begbie_Falls_Rec_Site-BC-Canada.geojson",
       "pointCount": 9014,
       "distanceKm": 403.251
+    },
+    {
+      "sourceFile": "d043-Begbie_Falls_Rec_Site_to_Loop_Brook_Campground-BC-Canada.gpx",
+      "geojson": "routes/d043-Begbie_Falls_Rec_Site_to_Loop_Brook_Campground-BC-Canada.geojson",
+      "pointCount": 3596,
+      "distanceKm": 98.884
     }
   ]
 }

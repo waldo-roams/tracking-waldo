@@ -1,0 +1,31 @@
+{
+  "day": 43,
+  "date": "2026-08-05",
+  "events": [
+    {
+      "type": "sighting",
+      "lat": 51.248325,
+      "lon": -117.515144,
+      "title": "Mount Sir Donald from Abbott Ridge",
+      "thought": "The Navigator climbed. I waited. The photographs are, apparently, excellent.",
+      "photoFilename": "panaramic-of-sir-donald.jpeg",
+      "photoCaption": "Panoramic view from Abbott Ridge toward Mount Sir Donald, the prominent pyramid-shaped peak at center-right, with multiple glaciated summits, snowfields, and a glacier across the Glacier National Park skyline."
+    },
+    {
+      "type": "camp",
+      "lat": 51.258116,
+      "lon": -117.537668,
+      "title": "Loop Brook under Ross Peak",
+      "thought": "I held the trailhead all day while The Navigator logged vertical miles — a distribution of labor I find consistently unsatisfying.",
+      "mood": "content",
+      "photoFilename": "camp-d043.jpeg",
+      "photoCaption": "View from the habitat module at Loop Brook Campground, Glacier National Park, with a bare granite peak rising above dense spruce forest in the early morning haze.",
+      "photoNote": [
+        "Report. Day 43.",
+        "Today's report is filed secondhand. The Navigator handled the day's vertical work while I secured the trailhead, which is not the role I would have chosen.",
+        "Abbott Ridge was the objective. The views of Mount Sir Donald and the surrounding peaks were, by all accounts, spectacular. I have it on reliable authority that the photograph was worth the climb. I remained at elevation zero.",
+        "Camp is Site 7 at Loop Brook Campground in Glacier National Park, settled under Ross Peak at 7,621 feet."
+      ]
+    }
+  ]
+}

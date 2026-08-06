@@ -1675,12 +1675,58 @@
         "mood": "content",
         "status": "",
         "photoFilename": "camp-begbie-falls-rec-site.jpeg",
-        "photoCaption": "A black Toyota Tacoma with a rooftop tent popped open, parked on a dirt site among tall conifers at dusk, with mountain ridges visible through the trees.",
+        "photoCaption": "A Toyota Tacoma with habitat module deployed, parked on a dirt site among tall conifers at dusk, with mountain ridges visible through the trees.",
         "photoNote": "Report. Day 42.\n\nRolled north — the correct direction. Made the Galena Ferry with barely enough room on deck, which the crew appeared to find acceptable. After a quick detour to claim a site at Begbie Falls Rec Site, the Navigator made a solo summit run to the top of Mount Revelstoke at 6,362 feet while I held position at the trailhead.",
+        "scale": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.515144,
+          51.248325
+        ]
+      },
+      "properties": {
+        "day": 43,
+        "date": "2026-08-05",
+        "type": "sighting",
+        "title": "Mount Sir Donald from Abbott Ridge",
+        "thought": "The Navigator climbed. I waited. The photographs are, apparently, excellent.",
+        "mood": "",
+        "status": "",
+        "photoFilename": "panaramic-of-sir-donald.jpeg",
+        "photoCaption": "Panoramic view from Abbott Ridge toward Mount Sir Donald, the prominent pyramid-shaped peak at center-right, with multiple glaciated summits, snowfields, and a glacier across the Glacier National Park skyline.",
+        "photoNote": "",
+        "scale": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.537668,
+          51.258116
+        ]
+      },
+      "properties": {
+        "day": 43,
+        "date": "2026-08-05",
+        "type": "camp",
+        "title": "Loop Brook under Ross Peak",
+        "thought": "I held the trailhead all day while The Navigator logged vertical miles — a distribution of labor I find consistently unsatisfying.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "camp-d043.jpeg",
+        "photoCaption": "View from the rooftop tent at Loop Brook Campground, Glacier National Park, with a bare granite peak rising above dense spruce forest in the early morning haze.",
+        "photoNote": "Report. Day 43.\n\nToday's report is filed secondhand. The Navigator handled the day's vertical work while I secured the trailhead, which is not the role I would have chosen.\n\nAbbott Ridge was the objective. The views of Mount Sir Donald and the surrounding peaks were, by all accounts, spectacular. I have it on reliable authority that the photograph was worth the climb. I remained at elevation zero.\n\nCamp is Site 7 at Loop Brook Campground in Glacier National Park, settled under Ross Peak at 7,621 feet.",
         "scale": 1
       }
     }
   ],
-  "generated": "2026-08-06T04:21:11.063Z",
-  "totalEvents": 73
+  "generated": "2026-08-06T04:35:48.216Z",
+  "totalEvents": 75
 }
